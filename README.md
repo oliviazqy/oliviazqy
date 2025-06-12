@@ -1,16 +1,20 @@
-## Hi there 👋
+### 👋 Hi there, I'm Olivia Zhang!
 
-<!--
-**oliviazqy/oliviazqy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product | Programmatic Advertising | AI Applications | Fun Projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 Projects
+
+- **[budget-tracker](https://github.com/oliviazqy/budget-tracker)**: A simple app to track expenses with categorization and visualization.
+- **[tone-chrome-extension](https://github.com/oliviazqy/tone-chrome-extension)**: Chrome extension to pronounce selected American English text.
+- **[doggy-tab](https://github.com/oliviazqy/doggy-tab)**: Replace new tab with uplifting pictures of dogs 🐶.
+
+---
+
+### 📌 Let's Connect 
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/qingyangolivia/)
+
+---
+
