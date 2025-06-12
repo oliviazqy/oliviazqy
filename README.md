@@ -1,7 +1,12 @@
-### 👋 Hi there, I'm Olivia Zhang!
+### 👋 Hi there, I'm Olivia!
 
-Product | Programmatic Advertising | AI Applications | Fun Projects
+A product nerd who enjoys building with AI, tweaking prompts until they’re *just right*, and automating things (yes, even PDFs).
 
+I’ve spent the last 6+ years navigating the wild world of programmatic advertising, leading cross-functional teams, and translating technical chaos into elegant product roadmaps. I like my features measurable, my metrics actionable, and my user stories backed by SQL.
+
+Lately I’ve been diving deeper into generative AI, multimodal agents, and the nitty-gritty of RAG. If it's a blend of data, user empathy, and technical puzzle-solving — I’m probably into it.
+
+Always shipping. Always learning. Usually debugging something I broke five minutes ago.
 ---
 
 ### 🧩 Projects
