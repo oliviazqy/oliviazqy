@@ -11,7 +11,7 @@ Lately I’ve been diving deeper into generative AI, multimodal agents, and the 
 --- 
 
 ### 🧩 Projects
-
+- **[motivational-quotes](https://github.com/oliviazqy/motivational-quotes-app/tree/main)**: I believe in the importance of accessible, compassionate support for those facing mental health challenges. This project is a small step toward that — offering encouragement and a moment of positivity to anyone who needs it, deployed on [Vercel](https://motivational-quotes-nydqsxfee-oliviazhangs-projects.vercel.app/).
 - **[budget-tracker](https://github.com/oliviazqy/budget-tracker)**: A simple app to track expenses with categorization and visualization.💰
 - **[tone-chrome-extension](https://github.com/oliviazqy/tone-chrome-extension)**: Chrome extension to pronounce selected American English text. 
 
